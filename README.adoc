@@ -2,8 +2,9 @@
 
 > Don't hassle with HOFF
 
-image:https://travis-ci.org/rlespinasse/hoff.svg?branch=v0["Build Status", link="https://travis-ci.org/rlespinasse/hoff"]
+image:https://github.com/rlespinasse/hoff/workflows/Test/badge.svg["Test Status", link="https://github.com/rlespinasse/hoff/actions?query=workflow%3ATest"]
 image:https://coveralls.io/repos/github/rlespinasse/hoff/badge.svg?branch=v0["Coverage Status", link="https://coveralls.io/github/rlespinasse/hoff?branch=v0"]
+image:https://pkg.go.dev/badge/github.com/rlespinasse/hoff["GoDoc", link="https://pkg.go.dev/github.com/rlespinasse/hoff"]
 image:https://goreportcard.com/badge/github.com/rlespinasse/hoff["Go Report Card", link="https://goreportcard.com/report/github.com/rlespinasse/hoff"]
 
 **HOFF** is a library to configure and run a computation engine in order to process data throught a high order functions workflow.
@@ -19,6 +20,7 @@ import "github.com/rlespinasse/hoff"
 Than read the documentation image:https://pkg.go.dev/badge/github.com/rlespinasse/hoff["GoDoc", link="https://pkg.go.dev/github.com/rlespinasse/hoff"] to have some usage examples.
 
 == Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
